@@ -1350,3 +1350,87 @@ news_event = {
 	}
 
 }
+news_event = {
+	id = sov.102
+	title = "[GetNewspaperHeader]"The 8th 5-year plan"
+	desc = sov.102.d
+	picture = GFX_8th_5_year_plan
+	Major = no
+	fire_once_only = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "lets go"
+	}
+	
+}
+news_event = {
+	id = sov.103
+	title = "[GetNewspaperHeader]"tech is the future"
+	desc = sov.103.d
+	picture = GFX_8th_5_year_plan_computer
+	Major = no
+	fire_once_only = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "lets hope this pays off"
+	}
+}
+news_event = {
+	id = sov.104
+	title = "[GetNewspaperHeader]"industry is the future"
+	desc = sov.104.d
+	picture = GFX_8th_5_year_plan_factory
+	Major = no
+	fire_once_only = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "better to play it safe"
+	}
+
+news_event = {
+	id = sov.105
+	title = "[GetNewspaperHeader]"the agriculture choice
+	desc = sov.105.d
+	picture = GFX_8th_5_year_plan_grain
+	Major = no
+	fire_once_only = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "an interesting development"
+	}
+	
+news_event = {
+	id = sov.106
+	title = "[GetNewspaperHeader]"Soveits choose consiquencial investment"
+	desc = sov.106.d
+	picture = GFX_8th_5_year_plan_grain_consiquencial
+	Major = no
+	fire_once_only = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "long term investmetns are not in the unions budget"
+	}
+	
+news_event = {
+	id = sov.107
+	title = "[GetNewspaperHeader]"soviets choose long term investments"
+	desc = sov.107.d
+	picture = GFX_8th_5_year_plan_grain_long_term
+	Major = no
+	fire_once_only = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "not another holodomor"
+	}
